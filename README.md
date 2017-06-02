@@ -1,4 +1,5 @@
 # TaikoBeats
-Simple Protoype implementation of my Info 200 design.
+Simple Protoype implementation of taiko beat simulator/creator.
+Created for INFO 200 Final project.
 
 Needs libgdx
